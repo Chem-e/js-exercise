@@ -1,0 +1,23 @@
+{
+    "name": "js-exercises",
+    "version": "0.0.1",
+    "description": "A collection of Javascript exercises for beginers",
+    "main": "index.js",
+    "scripts": {
+        "test": "grunt test"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-jshint": "~0.6.0",
+        "grunt-contrib-jasmine": "~0.4.0"
+    },
+    "keywords": [
+        "js",
+        "exercise"
+    ],
+    "author": "Mashhood Rastgar",
+    "license": "ISC",
+    "dependencies": {
+        "grunt-contrib-watch": "^0.6.1"
+    }
+}
